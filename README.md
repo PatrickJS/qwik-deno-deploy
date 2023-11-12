@@ -1,4 +1,4 @@
-# Qwik City App ⚡️
+# qwik-deno-deploy
 
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
