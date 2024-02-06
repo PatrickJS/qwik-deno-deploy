@@ -4,8 +4,11 @@
 
 This app has a minimal [Deno server](https://deno.com/manual/examples/http_server) implementation. After running a full build, you can preview the build using the command:
 
-```
-npm run serve
+```bash
+npm install
+
+deno task build
+deno task dev
 ```
 
-Then visit [http://localhost:8080/](http://localhost:8080/)
+make sure all deps are downloaded so deno works
